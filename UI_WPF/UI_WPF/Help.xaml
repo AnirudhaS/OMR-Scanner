@@ -1,0 +1,9 @@
+﻿<Window x:Class="UI_WPF.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Help" Height="300" Width="300">
+    <Grid>
+        <Button Content="Back to HOME" HorizontalAlignment="Left" VerticalAlignment="Top" Width="105" Margin="99,213,0,0" Height="23" Click="Button_Click"/>
+
+    </Grid>
+</Window>
